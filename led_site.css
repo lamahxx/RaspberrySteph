@@ -1,0 +1,28 @@
+p
+{
+    color: blue;
+}
+h1
+{
+    text-align: center;
+    color: White;
+    font-size: 200%;
+}
+.color
+{
+    border: 3px double;
+    border-top-color: Red;
+    font-size: 200%;
+    text-align: left;
+    color: White;
+    text-decoration: underline;
+}
+body
+{
+    background-image: url("Inf.jpg");
+}
+.color:hover
+{
+
+    color: Green;
+}
